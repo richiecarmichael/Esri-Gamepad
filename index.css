@@ -30,7 +30,7 @@ html, body {
     right: 0;
 }
 
-#test {
+#target {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -41,4 +41,49 @@ html, body {
     pointer-events: none;
     border-radius: 5px 5px;
     box-shadow: 0px 0px 5px #808080;
+}
+
+#logo-esri {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    opacity: 0.5;
+}
+
+.rc-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rc-modal-content {
+    border-radius: 0 0 0 0;
+}
+
+.rc-help, .rc-help img {
+    width: 100%;
+}
+
+#map-buttons {
+    position: absolute;
+    left: 15px;
+    top: 140px;
+}
+
+.rc-map-button {
+    padding-top: 8px;
+    font-size: 14px;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    cursor: pointer;
+    align-items: center;
+    background-color: #ffffff;
+    color: #6e6e6e;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+}
+
+.rc-map-button:hover {
+    background-color: #f2f2f2;
 }
