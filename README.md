@@ -6,7 +6,7 @@ This is an experimental project to test the effectiveness of using a Microsoft [
 
 Click [here](https://richiecarmichael.github.io/gamepad/index.html) for the live application.
 
-The app should work with any Windows desktop/tablet and any compatible controller such as [this](https://www.microsoft.com/accessories/en-us/products/gaming/xbox-360-controller-for-windows/52a-00004), [this](https://www.microsoft.com/accessories/en-us/products/gaming/xbox-360-wireless-controller-for-windows/jr9-00011), [this](https://www.microsoft.com/accessories/en-us/products/gaming/xbox-controller-cable-for-windows) or [this](https://www.microsoft.com/accessories/en-us/products/gaming/xbox-controller-wireless-adapter-for-windows-10).
+To date the app has only been tested on Windows desktops with Xbox game controllers such as [this](https://www.microsoft.com/accessories/en-us/products/gaming/xbox-360-controller-for-windows/52a-00004), [this](https://www.microsoft.com/accessories/en-us/products/gaming/xbox-360-wireless-controller-for-windows/jr9-00011), [this](https://www.microsoft.com/accessories/en-us/products/gaming/xbox-controller-cable-for-windows) and [this](https://www.microsoft.com/accessories/en-us/products/gaming/xbox-controller-wireless-adapter-for-windows-10).
 
 The application was built using the following technologies:
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) by [Esri](https://www.esri.com)
