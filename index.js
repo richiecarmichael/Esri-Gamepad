@@ -133,6 +133,9 @@ require(
                 trigger: 'manual'
             });
             $('#button-help').popover('show');
+            $('#button-help').click(function () {
+                $('#button-help').popover('hide');
+            });
             window.setTimeout(function () {
                 $('#button-help').popover('hide');
             }, 15000);
@@ -358,7 +361,7 @@ require(
                                 graphic: graphic,
                                 highlight: v.highlight(graphic)
                             };
-                        })
+                        });
                     });
                 }
 
