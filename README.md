@@ -1,6 +1,6 @@
 # Gamepad Sample
 
-![](./img/landsat-lens-2.gif)
+![](./img/gamepad.jpg)
 
 This is an experimental project to test the effectiveness of using a Microsoft [Xbox controller](https://en.wikipedia.org/wiki/Xbox_360_controller) to navigate in a 3d web application built using [Esri](https://www.esri.com)'s [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/).
 
@@ -27,5 +27,9 @@ https://richiecarmichael.github.io/gamepad/index.html?webscene=5c2293d8f06448f9a
 
 * The app is experimental. The app is based on draft implementations of the gamepad API in modern browsers.
 * The app has not been tested with a Sony PlayStation controller.
+
+## Demonstration
+
+![](./img/gamepad.gif)
 
 
