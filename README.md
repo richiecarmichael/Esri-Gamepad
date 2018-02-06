@@ -20,12 +20,12 @@ https://richiecarmichael.github.io/gamepad/index.html?webscene=5c2293d8f06448f9a
 
 ## Known Issues
 
-* When the app starts, the camera may spontaneously creep with any controller interaction. Occasionally the creeping is crazy dash. To correct this, after a few seconds press the **start** button. This will reset the controller.
+* When the app starts, the camera may spontaneously creep without any controller interaction. Occasionally it may be an erratic spin. To correct this, after a few seconds press the **start** button. This will reset the controller.
 * Occasionally when the app starts, scene layers (e.g. buildings) may no fully load. To correct this refresh the browser and wait 5-10 seconds before using the controller.
 
 ## The Caveats
 
-* The app is experimental. The app is based on draft implementations of the gamepad API in modern browsers.
+* The app is experimental. The app is based on draft implementations of the [gamepad API](https://w3c.github.io/gamepad/) in modern browsers.
 * The app has not been tested with a Sony PlayStation controller.
 
 ## Demonstration
