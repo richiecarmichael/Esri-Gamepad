@@ -13,7 +13,7 @@ The application was built using the following technologies:
 - [Bootstrap](https://getbootstrap.com/) by [Twitter Inc](https://twitter.com/)
 - [jQuery](https://jquery.com/) by the jQuery Foundation Inc.
 - [Open Iconic](https://github.com/cowboy/jquery-throttle-debounce/) by [Iconic](https://github.com/cowboy)
-- [Popper.js](https://github.com/jquery/jquery-mousewheel/) by []().
+- [Popper.js](https://github.com/jquery/jquery-mousewheel/) by [Federico Zivolo](https://github.com/FezVrasta).
 
 By default, [this](https://www.arcgis.com/home/item.html?id=53d44be1fd7443a99cf0fbf7d95a2365) web scene of San Francisco is used. To use an alternative scene, use a *webscene* query to specify the id of the alternative scene. For example:
 https://richiecarmichael.github.io/gamepad/index.html?webscene=5c2293d8f06448f9a05fa508b4f28b9e
